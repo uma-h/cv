@@ -1,0 +1,9 @@
+body { background-color:#ffeedb;}
+hr { 
+    border-style: none; border-top:5px dotted white; height: 2px; ;   width:5%;} 
+    h1,h2{ color: #424642;}
+img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
